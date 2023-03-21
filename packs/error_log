@@ -1,0 +1,56 @@
+[06-Jan-2022 17:13:01 America/Guayaquil] PHP Notice:  Undefined variable: codigo_plan1 in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[06-Jan-2022 17:13:01 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[06-Jan-2022 17:13:01 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[12-Jan-2022 15:51:08 America/Guayaquil] PHP Notice:  Undefined variable: codigo_plan1 in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[12-Jan-2022 15:51:08 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[12-Jan-2022 15:51:08 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[12-Jan-2022 15:54:05 America/Guayaquil] PHP Notice:  Undefined variable: codigo_plan1 in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[12-Jan-2022 15:54:05 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[12-Jan-2022 15:54:05 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[06-Apr-2022 17:52:09 America/Guayaquil] PHP Notice:  Undefined variable: codigo_plan1 in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[06-Apr-2022 17:52:09 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[06-Apr-2022 17:52:09 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[06-Apr-2022 17:59:19 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 275
+[06-Apr-2022 17:59:19 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 276
+[06-Apr-2022 17:59:19 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 281
+[06-Apr-2022 17:59:19 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[06-Apr-2022 18:14:21 America/Guayaquil] PHP Notice:  Undefined variable: codigo_plan1 in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[06-Apr-2022 18:14:21 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[06-Apr-2022 18:14:23 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[06-Apr-2022 18:15:08 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 275
+[06-Apr-2022 18:15:08 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 276
+[06-Apr-2022 18:15:08 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 281
+[06-Apr-2022 18:15:08 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[06-Apr-2022 18:15:11 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 275
+[06-Apr-2022 18:15:11 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 276
+[06-Apr-2022 18:15:11 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 281
+[06-Apr-2022 18:15:11 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[06-Apr-2022 18:15:13 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 275
+[06-Apr-2022 18:15:13 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 276
+[06-Apr-2022 18:15:13 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 281
+[06-Apr-2022 18:15:13 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[07-Apr-2022 16:27:03 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 275
+[07-Apr-2022 16:27:03 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 276
+[07-Apr-2022 16:27:03 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 281
+[07-Apr-2022 16:27:03 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[07-Apr-2022 16:30:21 America/Guayaquil] PHP Notice:  Undefined variable: codigo_plan1 in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[07-Apr-2022 16:30:21 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[07-Apr-2022 16:30:21 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[08-Apr-2022 09:21:31 America/Guayaquil] PHP Notice:  Undefined variable: codigo_plan1 in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[08-Apr-2022 09:21:31 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[08-Apr-2022 09:21:31 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[08-Apr-2022 14:40:13 America/Guayaquil] PHP Notice:  Undefined variable: codigo_plan1 in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[08-Apr-2022 14:40:13 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home2/investme/public_html/investment/packs/registro_packs.php on line 312
+[08-Apr-2022 14:40:13 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[08-Apr-2022 22:51:04 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 275
+[08-Apr-2022 22:51:04 America/Guayaquil] PHP Notice:  Undefined variable: capital in /home2/investme/public_html/investment/packs/registro_packs.php on line 276
+[08-Apr-2022 22:51:04 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 281
+[08-Apr-2022 22:51:04 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 338
+[08-Apr-2022 22:56:16 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 282
+[08-Apr-2022 22:56:16 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 339
+[11-Apr-2022 09:16:02 America/Guayaquil] PHP Notice:  Undefined variable: codigo_plan1 in /home2/investme/public_html/investment/packs/registro_packs.php on line 314
+[11-Apr-2022 09:16:02 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home2/investme/public_html/investment/packs/registro_packs.php on line 314
+[11-Apr-2022 09:16:02 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 340
+[18-Apr-2022 15:51:35 America/Guayaquil] PHP Notice:  Undefined variable: codigo_plan1 in /home2/investme/public_html/investment/packs/registro_packs.php on line 314
+[18-Apr-2022 15:51:35 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home2/investme/public_html/investment/packs/registro_packs.php on line 314
+[18-Apr-2022 15:51:35 America/Guayaquil] PHP Notice:  Undefined variable: porcentaje_avance in /home2/investme/public_html/investment/packs/registro_packs.php on line 340
