@@ -233,6 +233,8 @@ $q_paquete = mysqli_query($conexion_bd, "SELECT * FROM plan_usuario WHERE userna
     }
   
 }
+
+//modificación archivo dos
 ?>
  </table>
 </div>

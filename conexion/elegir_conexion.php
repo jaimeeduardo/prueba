@@ -23,4 +23,5 @@ if (!$db_select) {
     die('Internal server error2');
 }
 date_default_timezone_set('America/Guayaquil');
+//proceso satisfactorio
 ?>
